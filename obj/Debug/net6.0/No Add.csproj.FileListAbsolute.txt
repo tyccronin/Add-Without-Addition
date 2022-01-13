@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\No Add.exe
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\No Add.deps.json
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\No Add.runtimeconfig.json
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\No Add.dll
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\ref\No Add.dll
+C:\Users\tyccr\Documents\No Add\bin\Debug\net6.0\No Add.pdb
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.AssemblyInfo.cs
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.dll
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\ref\No Add.dll
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.pdb
+C:\Users\tyccr\Documents\No Add\obj\Debug\net6.0\No Add.genruntimeconfig.cache
