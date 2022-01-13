@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyccr\\Documents\\No Add\\No Add.csproj": {}
+    "C:\\Users\\tyccr\\Documents\\No Add\\Add-Without-Addition\\No Add.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyccr\\Documents\\No Add\\No Add.csproj": {
+    "C:\\Users\\tyccr\\Documents\\No Add\\Add-Without-Addition\\No Add.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyccr\\Documents\\No Add\\No Add.csproj",
+        "projectUniqueName": "C:\\Users\\tyccr\\Documents\\No Add\\Add-Without-Addition\\No Add.csproj",
         "projectName": "No Add",
-        "projectPath": "C:\\Users\\tyccr\\Documents\\No Add\\No Add.csproj",
+        "projectPath": "C:\\Users\\tyccr\\Documents\\No Add\\Add-Without-Addition\\No Add.csproj",
         "packagesPath": "C:\\Users\\tyccr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyccr\\Documents\\No Add\\obj\\",
+        "outputPath": "C:\\Users\\tyccr\\Documents\\No Add\\Add-Without-Addition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyccr\\AppData\\Roaming\\NuGet\\NuGet.Config"
